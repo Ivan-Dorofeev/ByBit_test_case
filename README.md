@@ -9,16 +9,17 @@
 
 - скачать репозиторий
 - установите необходимы библиотеку **pybit**:
-    ```pip install pybit``
+
+    ```pip install pybit```
     
 - получите на сайте ByBit свой api_key, api_secret. Добавьте его их в скрипт:
 
-```api_key``` - свой api ключ
+    ```api_key``` - свой api ключ
 
-```api_secret``` - свой секретый api ключ
+    ```api_secret``` - свой секретый api ключ
 
 ## Запуск
 
 Запустите бота командой:
 
-```python main.py```
+    ```python main.py```
